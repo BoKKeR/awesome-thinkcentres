@@ -20,6 +20,8 @@ Models covered:
 | ![p330-tiny](images/p330-tiny.webp) | ![p330-tiny-back](images/p330-tiny-back.webp) | ![p330-inside](images/p330-inside.webp) | ![p330-back](images/p330-back.webp) |
 
 
+---
+
 ## Awesome projects
 
 | Image                                       | Project                                                                                                                                                                   |
@@ -34,6 +36,8 @@ Models covered:
 | ![thinknas](images/thinknas.webp)           | [ThinkLab - 6 Bay Home Lab - M920q](https://makerworld.com/en/models/1754167-thinklab-6-bay-home-lab-m920q?from=search#profileId-1865265)                                 |
 | ![think-nas](images/think-nas.webp)         | [THINK NAS - Lenovo Think Style NAS Case](https://makerworld.com/en/models/1368836-think-nas-lenovo-think-style-nas-case?from=search#profileId-1415019)                   |
 
+---
+
 ## Features
 
 | Model | RAM         | Storage                      | USB                       | Video     | Network | spec sheet                                                                                                                        |
@@ -47,6 +51,7 @@ Models covered:
 * can be modded with additional M.2 SATA slot
 ** can be modded with additional M.2 NVME slot
 ```
+
 
 ### Common CPU configurations
 
@@ -72,11 +77,12 @@ Models covered:
 | ![thinkcentre-sth-forum](images/thinkcentre-sth-forum.webp) | [ServeTheHome Forum: Lenovo Thinkcentre/ThinkStation Tiny (Project TinyMiniMicro) Reference Thread](https://forums.servethehome.com/index.php?threads/lenovo-thinkcentre-thinkstation-tiny-project-tinyminimicro-reference-thread.34925/) |
 | ![upgrade-youtube](images/upgrade-youtube.webp)             | [Youtube: Lenovo ThinkCentre M920Q Tiny - Teardown and Upgrade SSD, RAM, CPU in 4K](https://www.youtube.com/watch?v=hHJpXFjRBLw)                                                                                                          |
 
-[Youtube: Lenovo ThinkCentre M920Q Tiny - Teardown and Upgrade SSD, RAM, CPU in 4K](https://www.youtube.com/watch?v=hHJpXFjRBLw)
+---
 
 ### Mods/upgrades
 
 [M920q extra M.2 nvme](https://github.com/badger707/m920q-dual-NVME)
+
 [M720q extra M.2 sata mod](https://github.com/badger707/m920q-dual-NVME)
 
 ### PCIE Risers
@@ -100,6 +106,8 @@ You can replace the M.2 Wifi card for 2.5G Ethernet
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | ![i226-2.5g](images/i226-2.5g.webp)   | [Industrial Grade M.2 A and E Intel i226V Customized 2.5G Ethernet Server NIC](https://www.aliexpress.com/item/1005008612570820.html) |
 | ![i226-srktv](images/i226-srktv.webp) | [M2 E A Key Karte 2.5 Gigabit RJ45 LAN ETHERNET 1G 2.5G Intel I226 SRKTV](https://www.ebay.de/itm/306178342372)                       |
+
+---
 
 ## PCIE cards
 
@@ -141,6 +149,8 @@ The following cards have been reported to fit these machines
 | ------------------------------- | ------------ | -------------------------------------------------- | ----- |
 | ![oculink](images/oculink.webp) | Oculink Card | Oculink SFF 8612 interfaces through a PCIe x8 slot |       |
 
+---
+
 ## 3D printed mounts
 
 ### Rack mounts
@@ -158,6 +168,8 @@ The following cards have been reported to fit these machines
 ## HDD caddy-s
 
 https://www.thingiverse.com/thing:4231309
+
+---
 
 ## Where to find/buy
 
