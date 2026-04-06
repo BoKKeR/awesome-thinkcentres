@@ -19,22 +19,22 @@ Models covered:
 | ----------------------------------- | --------------------------------------------- | --------------------------------------- | ----------------------------------- |
 | ![p330-tiny](images/p330-tiny.webp) | ![p330-tiny-back](images/p330-tiny-back.webp) | ![p330-inside](images/p330-inside.webp) | ![p330-back](images/p330-back.webp) |
 
-
 ---
 
 ## Awesome projects
 
-| Image                                       | Project                                                                                                                                                                   |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![diy4bay](images/diy4bay.webp)             | [4 Bay NAS](https://www.reddit.com/r/homelab/comments/1qllfjn/thinkbox_released_diy_4bay_nas_and_powerful/)                                                               |
-|                                             | [Kubernetes cluster](https://blog.zolty.systems/posts/2026-02-07-choosing-the-hardware)                                                                                   |
-| ![opfsense](images/opfsense.webp)           | [OPNsense box/router](https://www.reddit.com/r/homelab/comments/1lvnv72/built_a_opnsense_router_from_a_lenovo_m720q_intel/?utm_source=chatgpt.com)                        |
-|                                             | [CEPH Distributed Storage mesh](https://heck.sh/posts/10g-ceph-mesh-tinyminimicro/)                                                                                       |
-| ![thinknas-2bay](images/thinknas-2bay.webp) | [ThinkNAS - 2x HDD enclosure for Lenovo M920q](https://makerworld.com/en/models/1280680-thinknas-2x-hdd-enclosure-for-lenovo-m920q?from=search#profileId-1308483)         |
-| ![thinknas-4bay](images/thinknas-4bay.webp) | [ThinkNAS - 4x HDD NAS enclosure for Lenovo M920q](https://makerworld.com/en/models/1399535-thinknas-4x-hdd-nas-enclosure-for-lenovo-m920q?from=search#profileId-1451077) |
-| ![thinknas-6bay](images/thinknas-6bay.webp) | [ThinkNAS - 6x HDD NAS enclosure for Lenovo M920q](https://makerworld.com/en/models/1737570-thinknas-6x-hdd-nas-enclosure-for-lenovo-m920q#profileId-1846272)             |
-| ![thinknas](images/thinknas.webp)           | [ThinkLab - 6 Bay Home Lab - M920q](https://makerworld.com/en/models/1754167-thinklab-6-bay-home-lab-m920q?from=search#profileId-1865265)                                 |
-| ![think-nas](images/think-nas.webp)         | [THINK NAS - Lenovo Think Style NAS Case](https://makerworld.com/en/models/1368836-think-nas-lenovo-think-style-nas-case?from=search#profileId-1415019)                   |
+| Image                                             | Project                                                                                                                                                                   |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![diy4bay](images/diy4bay.webp)                   | [4 Bay NAS](https://www.reddit.com/r/homelab/comments/1qllfjn/thinkbox_released_diy_4bay_nas_and_powerful/)                                                               |
+|                                                   | [Kubernetes cluster](https://blog.zolty.systems/posts/2026-02-07-choosing-the-hardware)                                                                                   |
+| ![opfsense](images/opfsense.webp)                 | [OPNsense box/router](https://www.reddit.com/r/homelab/comments/1lvnv72/built_a_opnsense_router_from_a_lenovo_m720q_intel/?utm_source=chatgpt.com)                        |
+|                                                   | [CEPH Distributed Storage mesh](https://heck.sh/posts/10g-ceph-mesh-tinyminimicro/)                                                                                       |
+| ![thinknas-2bay](images/thinknas-2bay.webp)       | [ThinkNAS - 2x HDD enclosure for Lenovo M920q](https://makerworld.com/en/models/1280680-thinknas-2x-hdd-enclosure-for-lenovo-m920q?from=search#profileId-1308483)         |
+| ![thinknas-4bay](images/thinknas-4bay.webp)       | [ThinkNAS - 4x HDD NAS enclosure for Lenovo M920q](https://makerworld.com/en/models/1399535-thinknas-4x-hdd-nas-enclosure-for-lenovo-m920q?from=search#profileId-1451077) |
+| ![thinknas-6bay](images/thinknas-6bay.webp)       | [ThinkNAS - 6x HDD NAS enclosure for Lenovo M920q](https://makerworld.com/en/models/1737570-thinknas-6x-hdd-nas-enclosure-for-lenovo-m920q#profileId-1846272)             |
+| ![thinknas](images/thinknas.webp)                 | [ThinkLab - 6 Bay Home Lab - M920q](https://makerworld.com/en/models/1754167-thinklab-6-bay-home-lab-m920q?from=search#profileId-1865265)                                 |
+| ![think-nas](images/think-nas.webp)               | [THINK NAS - Lenovo Think Style NAS Case](https://makerworld.com/en/models/1368836-think-nas-lenovo-think-style-nas-case?from=search#profileId-1415019)                   |
+| ![6-bay-10gbps-nas](images/6-bay-10gbps-nas.webp) | [6-bay 10Gbps NAS from a Lenovo M720Q](https://www.reddit.com/r/homelab/comments/1sdmgzm/built_a_6bay_10gbps_nas_from_a_lenovo_m720q/)                                    |
 
 ---
 
@@ -117,16 +117,16 @@ The following cards have been reported to fit these machines
 
 ### Networking
 
-| Image                                             | Name                | Purpose                                                        | Notes                                                                  |
-| ------------------------------------------------- | ------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| ![connect3](images/connect3.webp)                 | Mellanox ConnectX-3 | (single/dual) 10Gbit, 40Gbit, InfiniBand 56Gbit                | Sold under many brands, different products have different capabilities |
-| ![connect4](images/connect4.webp)                 | Mellanox ConnectX-4 | (single/dual) 10Gbit, 40Gbit, 50Gbit, 100G, InfiniBand 100Gbit | Sold under many brands, different products have different capabilities |
-| ![intel550](images/intel550.webp)                 | Intel X550          | 2x 10Gbit Ethernet                                             | The ethernet 10Gbit might run too hot without an added fan             |
-| ![intel520](images/intel520.webp)                 | Intel X520          | 2x 10Gbit                                                      |                                                                        |
-| ![intel710](images/intel710.webp)                 | Intel X710          |                                                                |                                                                        |
-| ![thunderbolt](images/thunderbolt.webp)           | Thunderbolt Card    | 40 Gbit thunderbolt                                            |                                                                        |
-| ![i350-t4](images/i350-t4.webp)                   | Intel i350-AM4      | 4x Gbit ethernet                                               |                                                                        |
-| ![FujitsuD2755-A11](images/FujitsuD2755-A11.webp) | Fujitsu D2755-A11   | 2x 10Gbit                                                      |                                                                        |
+| Image                                             | Name                | Purpose                                                                                               | Notes                                                                                                                                          |
+| ------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![connect3](images/connect3.webp)                 | Mellanox ConnectX-3 | (single/dual) 10Gbit SFP+, 40Gbit QSFP+, InfiniBand 56Gbit                                            | Sold under many brands, different products have different capabilities, ConnectX4 is preferred since it allows for lower c-states saving power |
+| ![connect4](images/connect4.webp)                 | Mellanox ConnectX-4 | (single/dual) 10Gbit SFP+, 25Gbit SFP28, 40Gbit QSFP+, 50Gbit QSFP28, 100G QSFP28, InfiniBand 100Gbit | Sold under many brands, different products have different capabilities, great models for 25Gbit are CX4121C/CX4121A                            |
+| ![intel550](images/intel550.webp)                 | Intel X550          | 2x 10Gbit Ethernet                                                                                    | The ethernet 10Gbit might run too hot without an added fan                                                                                     |
+| ![intel520](images/intel520.webp)                 | Intel X520          | 2x 10Gbit SFP+                                                                                        |                                                                                                                                                |
+| ![intel710](images/intel710.webp)                 | Intel X710          | 2x 10Gbit SFP+                                                                                        |                                                                                                                                                |
+| ![thunderbolt](images/thunderbolt.webp)           | Thunderbolt Card    | 40 Gbit thunderbolt                                                                                   |                                                                                                                                                |
+| ![i350-t4](images/i350-t4.webp)                   | Intel i350-AM4      | 4x Gbit ethernet                                                                                      |                                                                                                                                                |
+| ![FujitsuD2755-A11](images/FujitsuD2755-A11.webp) | Fujitsu D2755-A11   | 2x 10Gbit SFP+                                                                                        |                                                                                                                                                |
 
 ### Storage
 
